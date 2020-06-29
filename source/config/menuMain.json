@@ -99,7 +99,7 @@
     "icon": "fa fa-file-text-o",
     "slug": "sustratos-minerales",
     "title": "4. Sustratos minerales",
-    "path": "pages/tema-3.html",
+    "path": "pages/tema-4.html",
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
@@ -128,13 +128,13 @@
       {
         "icon": "fa fa-file-text-o",
         "slug": "sustratos-minerales",
-        "title": "4.5 Piedra Pómez",
+        "title": "4.5 Piedra pómez",
         "anchor": "tema-45"
       },
       {
         "icon": "fa fa-file-text-o",
         "slug": "sustratos-minerales",
-        "title": "4.6 Escorias de Metales o Carbón",
+        "title": "4.6 Escorias de metales o carbón",
         "anchor": "tema-46"
       },
       {
@@ -153,26 +153,26 @@
     "submenu": [
       {
         "icon": "fa fa-file-text-o",
-        "slug": "sustratos-minerales",
+        "slug": "sustratos-fabricados",
         "title": "5.1 Ladrillos o tejas molidas",
         "anchor": "tema-51"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "sustratos-minerales",
+        "slug": "sustratos-fabricados",
         "title": "5.2 Icopor",
         "anchor": "tema-52"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "sustratos-minerales",
+        "slug": "sustratos-fabricados",
         "title": "5.3 Espumas fenólicas",
         "anchor": "tema-53"
       },
       {
         "icon": "fa fa-file-text-o",
-        "slug": "sustratos-minerales",
-        "title": "5.4 Lana de Roca",
+        "slug": "sustratos-fabricados",
+        "title": "5.4 Lana de roca",
         "anchor": "tema-54"
       }
     ]
@@ -180,7 +180,7 @@
   {
     "icon": "fa fa-play-circle",
     "slug": "recomendaciones",
-    "title": "Recomendaciones para el uso de sustratos",
+    "title": "6. Recomendaciones para el uso de sustratos",
     "path": "pages/tema-6.html"
   }  
 ]

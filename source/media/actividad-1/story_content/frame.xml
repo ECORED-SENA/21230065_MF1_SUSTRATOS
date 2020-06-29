@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="SENA - Actividad Didáctica 04" />
+              <option name="title_text" value="SENA - Actividad Didáctica 03" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -76,7 +76,7 @@
       </optiongroup>
       <optiongroup name="bottombaroptions">
         <options>
-          <option name="bottombar_enabled" value="true" />
+          <option name="bottombar_enabled" value="false" />
         </options>
       </optiongroup>
       <optiongroup name="buttonoptions">
@@ -1205,14 +1205,7 @@
         <slidelink slideid="_player.6iPYYXYye9N" displaytext="Escena sin título" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6iPYYXYye9N.60B7h4FKhhU" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6EdoTcI4Roc" displaytext="Los empaques son elementos destinados a proteger un conjunto de unidades de productos como unidad de carga, adecuándolos para su manipulación, cargue y descargue, transporte interno y externo." expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6nzmNvEq1P3" displaytext="El plátano se debe colocar con los pedúnculos hacía los extremos&#xA;de las cajas o canastillas, para evitar golpear la fruta." expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5gRFRdegWJd" displaytext="Los empaques se clasifican en:" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5oHIZFRMYEx" displaytext="Para el mercado de exportación, el empaque&#xA;recomendado para el plátano en fresco es:" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6HutkOHDCm4" displaytext="En zonas cálidas se recomienda el uso de vehículos:" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.5wNVMbUsMeJ" displaytext="En condiciones adecuadas de almacenamiento se&#xA;puede alargar la vida útil del plátano hasta: " expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6GwLaBYc0k9" displaytext="Tipo de envase que presenta mayor estabilidad química:" expand="false" type="slide" />
-            <slidelink slideid="_player.6iPYYXYye9N.6ZPN9ty3OGk" displaytext="Los empaques que son elaborados a base de minerales son de:" expand="false" type="slide" />
+            <slidelink slideid="_player.6iPYYXYye9N.5ad6MzQRjhx" displaytext="base" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>

@@ -1,81 +1,66 @@
 [
   {
-    "letter": "B",
+    "letter": "A",
     "terms": [
       {
-        "title": "Bidón",
-        "desciption": "es un recipiente para líquidos, de tamaño grande y por lo general es de metal. Tiene una forma cilíndrica y posee un cierre hermético, el cual es usado para transportar líquidos."
-      }
+        "title": "Ácidos Húmicos",
+        "desciption": "Son sustancias orgánicas complejas presentes en el suelo, especialmente en la porción de materia orgánica, cuando ésta se encuentra en su estado más avanzado de descomposición."
+      },
+      {
+        "title": "Anclaje",
+        "desciption": "Propiedad que brindan los sustratos para mantener las plantas erguidas y de esta manera lograr su normal crecimiento y desarrollo."
+      }      
     ]
   },
   {
-    "letter": "C",
+    "letter": "D",
     "terms": [
       {
-        "title": "Contenedor",
-        "desciption": "es un recipiente de carga en el transporte fluvial o marítimo, terrestre y multimodal."
+        "title": "Desarrollo Sostenible",
+        "desciption": "Es la capacidad de producir de una manera en que no se atenta contra los recursos naturales y se obtienen los productos necesarios para satisfacer las necesidades detectadas."
       }     
     ]
   }, 
   {
-    "letter": "E",
+    "letter": "F",
     "terms": [
       {
-        "title": "Esterilización",
-        "desciption": "es el proceso que destruye en los alimentos todas las formas de vida de microorganismos patógenos o no patógenos, a temperaturas altas."
+        "title": "Fitotoxicidad",
+        "desciption": "Es el efecto negativo, es decir, tóxico que se puede causar sobre las plantas debido a diversos factores."
       }   
-    ]
-  },
-  {
-    "letter": "L",
-    "terms": [
-      {
-        "title": "Logística",
-        "desciption": "es un conjunto de medios que permite a la empresa planificar y gestionar los procesos de producción, distribución, transporte y almacenaje."
-      }     
-    ]
-  },
-  {
-    "letter": "M",
-    "terms": [
-      {
-        "title": "Marketing",
-        "desciption": "es una estrategia de la empresa para satisfacer al cliente y comercializar los productos."
-      },
-      {
-        "title": "Multimodal",
-        "desciption": "articulación entre diferentes modos de transporte, a fin de realizar más rápida y eficazmente las operaciones de trasbordo de materiales y mercancías."
-      }
     ]
   },
   {
     "letter": "P",
     "terms": [
       {
-        "title": "Pasteurización",
-        "desciption": "es un proceso térmico que es realizado en líquidos (generalmente alimentos), con la intención de reducir la presencia de agentes patógenos como hongos, bacterias, mohos, levaduras, etc."
+        "title": "Participación Comunitaria",
+        "desciption": "Es la organización de una comunidad con el fin de lograr un objetivo particular, generalmente, apuntando a conseguir un mayor bienestar."
       },
       {
-        "title": "Perecedero",
-        "desciption": "es un alimento que inicia su descomposición de manera rápida por la acción de los agentes ambientales."
-      }    
-    ]
-  },
-  {
-    "letter": "R",
-    "terms": [
+        "title": "Población Vulnerable",
+        "desciption": "Es un grupo de personas que por una condición propia, se encuentran expuestos a padecer algún factor negativo dentro de la sociedad en la cual se encuentran inmersos."
+      },
       {
-        "title": "Reciclar",
-        "desciption": "es someter materiales desechados a un proceso de transformación o aprovechamiento para que puedan ser nuevamente utilizados."
+        "title": "Producción Limpia",
+        "desciption": "Producción agrícola realizada sin utilizar productos químicos que puedan llegar a causar algún impacto negativo a las personas que los producen, a los consumidores o al medio ambiente."
       }
     ]
   },
   {
-    "letter": "T",
+    "letter": "S",
     "terms": [
       {
-        "title": "Termoestable",
-        "desciption": "que no funde, ni se deforma en presencia de altas temperaturas o calor, por lo que no son reciclables."
+        "title": "Seguridad Alimentaria",
+        "desciption": "Estado que consigue un individuo o grupo de individuos cuando puede acceder a alimentos de forma permanente y oportuna, con la calidad y en la cantidad apropiadas para su consumo y que le brinden bienestar."
+      },
+      {
+        "title": "Sustrato Mineral",
+        "desciption": "Material utilizado para el anclaje y desarrollo de las plantas, el cual es obtenido de rocas o minerales de diversos orígenes."
+      },
+      {
+        "title": "Sustrato Orgánico",
+        "desciption": "Material utilizado para el anclaje, desarrollo y nutrición de las plantas, que se caracteriza por sufrir procesos de descomposición bioquímica de gran beneficio para los cultivos."
       }
     ]
   }
