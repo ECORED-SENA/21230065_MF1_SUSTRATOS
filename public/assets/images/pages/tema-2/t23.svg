@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1140" height="641" viewBox="0 0 1140 641">
+  <g id="Grupo_9239" data-name="Grupo 9239" transform="translate(-390 -900)">
+    <g id="Rectángulo_1872" data-name="Rectángulo 1872" transform="translate(1194 1050)" fill="#fff" stroke="#fdac29" stroke-width="1">
+      <rect width="336" height="491" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="335" height="490" rx="15.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_1871" data-name="Rectángulo 1871" transform="translate(792 1050)" fill="#fff" stroke="#3b5fbf" stroke-width="1">
+      <rect width="336" height="491" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="335" height="490" rx="15.5" fill="none"/>
+    </g>
+    <g id="Rectángulo_1870" data-name="Rectángulo 1870" transform="translate(390 1050)" fill="#fff" stroke="#70ad54" stroke-width="1">
+      <rect width="336" height="491" rx="16" stroke="none"/>
+      <rect x="0.5" y="0.5" width="335" height="490" rx="15.5" fill="none"/>
+    </g>
+    <g id="Elipse_548" data-name="Elipse 548" transform="translate(905 900)" fill="#fff" stroke="#3b5fbf" stroke-width="2">
+      <circle cx="55.5" cy="55.5" r="55.5" stroke="none"/>
+      <circle cx="55.5" cy="55.5" r="54.5" fill="none"/>
+    </g>
+    <g id="Elipse_547" data-name="Elipse 547" transform="translate(503 900)" fill="#fff" stroke="#70ad54" stroke-width="2">
+      <circle cx="55.5" cy="55.5" r="55.5" stroke="none"/>
+      <circle cx="55.5" cy="55.5" r="54.5" fill="none"/>
+    </g>
+    <rect id="Rectángulo_1866" data-name="Rectángulo 1866" width="336" height="81" rx="6" transform="translate(390 997)" fill="#70ad54"/>
+    <text id="Propiedades_Físicas" data-name="Propiedades Físicas" transform="translate(444 1044)" fill="#fff" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Propiedades Físicas</tspan></text>
+    <rect id="Rectángulo_1867" data-name="Rectángulo 1867" width="336" height="81" rx="6" transform="translate(792 997)" fill="#3b5fbf"/>
+    <text id="Propiedades_Químicas" data-name="Propiedades Químicas" transform="translate(831 1044)" fill="#fff" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Propiedades Químicas</tspan></text>
+    <path id="Trazado_13945" data-name="Trazado 13945" d="M58.108,22.627a1.082,1.082,0,1,1-1.084-1.088,1.084,1.084,0,0,1,1.084,1.088M59.734,9.815a1.082,1.082,0,1,1-1.08-1.088,1.083,1.083,0,0,1,1.08,1.088M57.77,15.952a1.084,1.084,0,1,1-1.084-1.088,1.086,1.086,0,0,1,1.084,1.088m-.936,22.856a1.082,1.082,0,1,1-1.08-1.088,1.083,1.083,0,0,1,1.08,1.088m-29.4,8.083A1.082,1.082,0,1,1,26.353,45.8a1.084,1.084,0,0,1,1.084,1.088M39.4,54.85a1.082,1.082,0,1,1-1.08-1.088A1.083,1.083,0,0,1,39.4,54.85M62.325,24.261a1.084,1.084,0,1,1-1.084-1.088,1.086,1.086,0,0,1,1.084,1.088m-20.03-3.5a1.084,1.084,0,1,1-1.084-1.088A1.086,1.086,0,0,1,42.3,20.756m3.364,5.974a1.082,1.082,0,1,1-1.08-1.092,1.085,1.085,0,0,1,1.08,1.092m13.555,3.884a1.084,1.084,0,1,1-1.084-1.088,1.086,1.086,0,0,1,1.084,1.088M45.781,33.231A1.084,1.084,0,1,1,44.7,32.143a1.089,1.089,0,0,1,1.084,1.088M53.11,31.6a1.082,1.082,0,1,1-1.08-1.088A1.083,1.083,0,0,1,53.11,31.6M49.873,17.593A1.084,1.084,0,1,1,48.789,16.5a1.086,1.086,0,0,1,1.084,1.088M62.4,16.917a1.084,1.084,0,1,1-1.084-1.088A1.089,1.089,0,0,1,62.4,16.917m-8.77,7.626a1.084,1.084,0,1,1-1.084-1.088,1.086,1.086,0,0,1,1.084,1.088m-6.416-2.614a1.084,1.084,0,1,1-1.084-1.092,1.089,1.089,0,0,1,1.084,1.092M51.6,8.738A1.084,1.084,0,1,1,50.515,7.65,1.089,1.089,0,0,1,51.6,8.738m-4.388,6.041a1.084,1.084,0,1,1-1.084-1.088,1.086,1.086,0,0,1,1.084,1.088M34.792,12.206c.962,2.061,2.009,8.057,2.877,14.7-.939,2.328-2.436,10.815-3.887,20.405.475-12.772.765-24.935.3-28.492,0,0-2.87,10.938-5.016,22.328-1.125-1.6-2.343-3.163-3.646-4.685.071,0,1.381,3.345,3.018,8.276C27.812,48.4,27.3,52.01,27.017,55.192c-.286,3.319-.613,6.516-.943,9.49-.843-37.057-8.179-43.472-8.179-43.472,3.089,9.286,2.97,19.737,2.684,24.69-.03-.238-.059-.472-.093-.687a36.209,36.209,0,0,0-6.6-15.181c2.3,6.345,2.855,22.169,2.915,34.384C13.659,45.542,3.237,24.031,3.237,24.031c7.333,15.452,8.892,38.843,9.2,50.419H58.82c1.719-11.439,5.528-29.156,11.216-32.965,0,0-9.015,5.573-13.318,22.169,2.224-15.133,5.655-34.532,9.3-40.417,0,0-8.339,10.752-13.455,29.8,1.608-12.319,3.36-23.914,3.36-23.914-3.148,2.918-5.766,15.219-7.641,27.17.356-14.131,1.738-31.154,5.758-42.284,0,0-5.569,7.414-8.2,21.649-.431,2.346-.887,5.365-1.292,8.821a99.812,99.812,0,0,0-9.731-32.253M40.09,28.779a1.09,1.09,0,1,1-1.084,1.088,1.089,1.089,0,0,1,1.084-1.088m-2.079.694c.579,4.793,1.054,9.705,1.322,13.577A177.807,177.807,0,0,1,39.254,62.4c-.65-2.131-1.418-4.351-2.324-6.616.516-10.44,1-21.163,1.08-26.308M30.221,43.1a1.09,1.09,0,1,1-1.084,1.088A1.089,1.089,0,0,1,30.221,43.1m5.762,1.871A1.088,1.088,0,1,1,34.9,46.062a1.086,1.086,0,0,1,1.084-1.088m9.445,4.9a1.09,1.09,0,1,1-1.08,1.088,1.086,1.086,0,0,1,1.08-1.088m-23.3,4.879a1.088,1.088,0,1,1-1.084,1.088,1.086,1.086,0,0,1,1.084-1.088m8.666.345a1.088,1.088,0,1,1-1.084,1.088A1.086,1.086,0,0,1,30.789,55.1m13.332,2.161a1.088,1.088,0,1,1-1.084,1.088,1.083,1.083,0,0,1,1.084-1.088M40.739,61.83a1.088,1.088,0,1,1-1.084,1.088,1.086,1.086,0,0,1,1.084-1.088m6.716.568a1.088,1.088,0,1,1-1.084,1.088A1.083,1.083,0,0,1,47.456,62.4M30.269,66.014A1.088,1.088,0,1,1,29.185,67.1a1.085,1.085,0,0,1,1.084-1.088M19.254,68.242A1.088,1.088,0,1,1,18.17,69.33a1.083,1.083,0,0,1,1.084-1.088m22.128,1.819A1.088,1.088,0,1,1,40.3,71.149a1.086,1.086,0,0,1,1.084-1.088m7.971.988a1.088,1.088,0,1,1-1.08,1.088,1.084,1.084,0,0,1,1.08-1.088m-21.07.924A1.088,1.088,0,1,1,27.2,73.061a1.086,1.086,0,0,1,1.084-1.088" transform="translate(521.763 923.35)" fill="#70ad54"/>
+    <g id="Grupo_8582" data-name="Grupo 8582" transform="translate(915.131 930.465)">
+      <path id="Trazado_13940" data-name="Trazado 13940" d="M91.956,12a4.332,4.332,0,1,0,3.06,1.273A4.29,4.29,0,0,0,91.956,12Z" transform="translate(-39.628 -5.481)" fill="#3b5fbf"/>
+      <path id="Trazado_13941" data-name="Trazado 13941" d="M113.792,9.274a5.455,5.455,0,0,0,0-7.683,5.393,5.393,0,0,0-7.627-.023l-.023.023a5.455,5.455,0,0,0,0,7.683,5.393,5.393,0,0,0,7.627.023Z" transform="translate(-47.362)" fill="#3b5fbf"/>
+      <path id="Trazado_13942" data-name="Trazado 13942" d="M7.942,29.9A7.037,7.037,0,1,0,13.594,32.8l4.187-4.205a7.519,7.519,0,0,0,8.692-.9l3,3.009a6,6,0,0,0,.8,7.447,5.932,5.932,0,0,0,8.389.026l.026-.026a6,6,0,0,0,0-8.451,5.918,5.918,0,0,0-7.734-.581l-3.063-3.076a7.608,7.608,0,0,0,.2-7.8l5-5.02a6.964,6.964,0,0,0,9.073-.7,7.009,7.009,0,1,0-10.6-.832l-4.8,4.823a7.528,7.528,0,0,0-9.314-.958L14.92,13.011a6,6,0,0,0-.577-7.766A5.932,5.932,0,0,0,5.954,5.22l-.026.026a6,6,0,0,0,0,8.451,5.925,5.925,0,0,0,7.416.8L15.8,16.966a7.6,7.6,0,0,0,.257,10.284l-3.992,4.009A6.929,6.929,0,0,0,7.942,29.9ZM33.791,4.1a4.824,4.824,0,0,1,6.822-.021l.021.021a4.874,4.874,0,0,1,0,6.872A4.824,4.824,0,0,1,33.812,11l-.021-.021A4.873,4.873,0,0,1,33.791,4.1ZM11.363,40.371a4.824,4.824,0,0,1-6.822.021l-.021-.021a4.873,4.873,0,0,1,0-6.871,4.824,4.824,0,0,1,6.822-.021l.021.021A4.874,4.874,0,0,1,11.363,40.371Z" transform="translate(0 -0.236)" fill="#3b5fbf"/>
+      <path id="Trazado_13943" data-name="Trazado 13943" d="M78.665,34.173a1.086,1.086,0,0,0,0-2.173H63.52a1.086,1.086,0,0,0,0,2.173h1.7V53.856L50.675,79.268a3.259,3.259,0,0,0,2.814,4.884H88.7a3.26,3.26,0,0,0,2.814-4.884L76.962,53.856V34.173Zm2.1,30.693a17.843,17.843,0,0,1-19.354,0l5.971-10.43V34.173H74.8V54.436Z" transform="translate(-22.551 -14.616)" fill="#3b5fbf"/>
+    </g>
+    <g id="Elipse_549" data-name="Elipse 549" transform="translate(1307 900)" fill="#fff" stroke="#fdac29" stroke-width="2">
+      <circle cx="55.5" cy="55.5" r="55.5" stroke="none"/>
+      <circle cx="55.5" cy="55.5" r="54.5" fill="none"/>
+    </g>
+    <rect id="Rectángulo_1868" data-name="Rectángulo 1868" width="336" height="81" rx="6" transform="translate(1194 997)" fill="#fdac29"/>
+    <text id="Otras_Propiedades" data-name="Otras Propiedades" transform="translate(1256 1044)" fill="#fff" font-size="22" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">Otras Propiedades</tspan></text>
+    <g id="Grupo_8583" data-name="Grupo 8583" transform="translate(1308.992 916.164)">
+      <path id="Trazado_13946" data-name="Trazado 13946" d="M66.577,71.259h5.745l.2-1.314a92.1,92.1,0,0,0-.194-29.114H44.448V38.065H72.57L76.259,27A38.682,38.682,0,0,1,61.9,29.766H46.363A38.682,38.682,0,0,1,32,27l3.689,11.065H40.3v2.766H35.928a92.146,92.146,0,0,0-.194,29.114l.2,1.314H61.045M55.512,60.1v5.628H52.746V60.1a11.06,11.06,0,0,1-9.682-10.969,11.06,11.06,0,0,1,10.969,9.682h.191a11.06,11.06,0,0,1,10.969-9.682A11.06,11.06,0,0,1,55.512,60.1Z" transform="translate(0 9.577)" fill="#fdac29"/>
+      <path id="Trazado_13947" data-name="Trazado 13947" d="M65.662,15.831A13.831,13.831,0,1,0,51.831,29.662,13.831,13.831,0,0,0,65.662,15.831ZM53.214,19.164v4.965H50.448V19.164a8.294,8.294,0,0,1-6.915-8.174,8.294,8.294,0,0,1,8.026,6.224H52.1a8.3,8.3,0,0,1,8.026-6.224A8.291,8.291,0,0,1,53.214,19.164Z" transform="translate(2.299 0)" fill="#fdac29"/>
+      <rect id="Rectángulo_1869" data-name="Rectángulo 1869" width="4" height="4" transform="translate(52.008 32.836)" fill="#fdac29"/>
+    </g>
+    <text id="Elevada_capacidad_de_retención_de_agua" data-name="Elevada capacidad de 
+retención de agua" transform="translate(554 1122)" fill="#70ad54" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-95.115" y="0">Elevada capacidad de </tspan><tspan x="-78.126" y="30">retención de agua</tspan></text>
+    <text id="Suficiente_suministro_de_aire" data-name="Suficiente suministro de aire" transform="translate(554 1209)" fill="#70ad54" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-123.996" y="0">Suficiente suministro de aire</tspan></text>
+    <text id="Buena_distribución_del_tamaño_de_las_partículas" data-name="Buena distribución 
+del tamaño de las partículas" transform="translate(554 1278)" fill="#70ad54" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-84.371" y="0">Buena distribución </tspan><tspan x="-122.388" y="30">del tamaño de las partículas</tspan></text>
+    <text id="Baja_densidad_aparente" data-name="Baja densidad aparente" transform="translate(554 1374)" fill="#70ad54" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-102.771" y="0">Baja densidad aparente</tspan></text>
+    <text id="Elevada_porosidad" data-name="Elevada porosidad" transform="translate(554 1439)" fill="#70ad54" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-79.37" y="0">Elevada porosidad</tspan></text>
+    <text id="Estructura_estable" data-name="Estructura estable" transform="translate(554 1508)" fill="#70ad54" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-79.128" y="0">Estructura estable</tspan></text>
+    <path id="Trazado_13948" data-name="Trazado 13948" d="M5744-119.656h334.9" transform="translate(-5354 1293)" fill="none" stroke="#70ad54" stroke-width="1"/>
+    <path id="Trazado_13949" data-name="Trazado 13949" d="M5744-119.656h334.9" transform="translate(-5354 1356)" fill="none" stroke="#70ad54" stroke-width="1"/>
+    <path id="Trazado_13950" data-name="Trazado 13950" d="M5744-119.656h334.9" transform="translate(-5354 1458)" fill="none" stroke="#70ad54" stroke-width="1"/>
+    <path id="Trazado_13951" data-name="Trazado 13951" d="M5744-119.656h334.9" transform="translate(-5354 1521)" fill="none" stroke="#70ad54" stroke-width="1"/>
+    <path id="Trazado_13952" data-name="Trazado 13952" d="M5744-119.656h334.9" transform="translate(-5354 1586)" fill="none" stroke="#70ad54" stroke-width="1"/>
+    <text id="La_CIC_depende_de_la_frecuencia_de_la_fertirrigación_" data-name="La CIC depende de la frecuencia 
+de la fertirrigación " transform="translate(960 1122)" fill="#3b5fbf" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-140.3" y="0">La CIC depende de la frecuencia </tspan><tspan x="-82.586" y="30">de la fertirrigación </tspan></text>
+    <text id="Suficiente_nivel_de_nutrientes_asimilables" data-name="Suficiente nivel de nutrientes 
+asimilables" transform="translate(960 1209)" fill="#3b5fbf" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-129.261" y="0">Suficiente nivel de nutrientes </tspan><tspan x="-48.639" y="30">asimilables</tspan></text>
+    <text id="Baja_salinidad" data-name="Baja salinidad" transform="translate(960 1308)" fill="#3b5fbf" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-60.508" y="0">Baja salinidad</tspan></text>
+    <text id="Elevada_capacidad_para_mantener_constante_el_pH" data-name="Elevada capacidad para mantener 
+constante el pH" transform="translate(960 1373)" fill="#3b5fbf" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-149.449" y="0">Elevada capacidad para mantener </tspan><tspan x="-67.979" y="30">constante el pH</tspan></text>
+    <text id="Mínima_velocidad_de_descomposición" data-name="Mínima velocidad de 
+descomposición" transform="translate(960 1470)" fill="#3b5fbf" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-92.079" y="0">Mínima velocidad de </tspan><tspan x="-69.904" y="30">descomposición</tspan></text>
+    <path id="Trazado_13953" data-name="Trazado 13953" d="M5744-119.656h334.9" transform="translate(-4951 1293)" fill="none" stroke="#3b5fbf" stroke-width="1"/>
+    <path id="Trazado_13954" data-name="Trazado 13954" d="M5744-119.656h334.9" transform="translate(-4951 1386)" fill="none" stroke="#3b5fbf" stroke-width="1"/>
+    <path id="Trazado_13955" data-name="Trazado 13955" d="M5744-119.656h334.9" transform="translate(-4951 1455)" fill="none" stroke="#3b5fbf" stroke-width="1"/>
+    <path id="Trazado_13956" data-name="Trazado 13956" d="M5744-119.656h334.9" transform="translate(-4951 1548)" fill="none" stroke="#3b5fbf" stroke-width="1"/>
+    <text id="Libre_de_malas_semilla_patógenos_y_sustancias_fitotóxicas_" data-name="Libre de malas semilla, patógenos 
+y sustancias fitotóxicas " transform="translate(1365 1122)" fill="#fdac29" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-149.269" y="0">Libre de malas semilla, patógenos </tspan><tspan x="-102.546" y="30">y sustancias fitotóxicas </tspan></text>
+    <text id="Reproductividad_y_disponibilidad" data-name="Reproductividad y 
+disponibilidad" transform="translate(1362 1209)" fill="#fdac29" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-80.829" y="0">Reproductividad y </tspan><tspan x="-61.396" y="30">disponibilidad</tspan></text>
+    <text id="Bajo_costo" data-name="Bajo costo" transform="translate(1362 1291)" fill="#fdac29" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-44.877" y="0">Bajo costo</tspan></text>
+    <text id="Fácil_de_mezclar" data-name="Fácil de mezclar" transform="translate(1362 1346)" fill="#fdac29" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-69.025" y="0">Fácil de mezclar</tspan></text>
+    <text id="Fácil_de_desinfectar_y_estabilidad_frente_a_la_desinfección" data-name="Fácil de desinfectar y estabilidad 
+frente a la desinfección" transform="translate(1362 1398)" fill="#fdac29" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-143.631" y="0">Fácil de desinfectar y estabilidad </tspan><tspan x="-101.03" y="30">frente a la desinfección</tspan></text>
+    <text id="Resistencia_a_cambios_físicos_químicos_y_ambientales" data-name="Resistencia a cambios físicos, 
+químicos y ambientales" transform="translate(1362 1484)" fill="#fdac29" font-size="18" font-family="OpenSans-Semibold, Open Sans" font-weight="600"><tspan x="-129.085" y="0">Resistencia a cambios físicos, </tspan><tspan x="-102.454" y="30">químicos y ambientales</tspan></text>
+    <path id="Trazado_13957" data-name="Trazado 13957" d="M5744-119.656h334.9" transform="translate(-4548.896 1293)" fill="none" stroke="#fdac29" stroke-width="1"/>
+    <path id="Trazado_13958" data-name="Trazado 13958" d="M5744-119.656h334.9" transform="translate(-4548.896 1380)" fill="none" stroke="#fdac29" stroke-width="1"/>
+    <path id="Trazado_13959" data-name="Trazado 13959" d="M5744-119.656h334.9" transform="translate(-4548.896 1432)" fill="none" stroke="#fdac29" stroke-width="1"/>
+    <path id="Trazado_13960" data-name="Trazado 13960" d="M5744-119.656h334.9" transform="translate(-4548.896 1487)" fill="none" stroke="#fdac29" stroke-width="1"/>
+    <path id="Trazado_13961" data-name="Trazado 13961" d="M5744-119.656h334.9" transform="translate(-4548.896 1569)" fill="none" stroke="#fdac29" stroke-width="1"/>
+  </g>
+</svg>
