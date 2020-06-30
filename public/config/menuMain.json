@@ -178,7 +178,7 @@
     ]
   },
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "recomendaciones",
     "title": "6. Recomendaciones para el uso de sustratos",
     "path": "pages/tema-6.html"
